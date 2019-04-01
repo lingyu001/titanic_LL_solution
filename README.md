@@ -5,4 +5,4 @@ Several notes on this projects:
 
 1. Missing data imputation.
 2. Comparing the perforamnce of different ML classfiers: logit regression, SVM, Tree & RF, KNN.
-3. > 80% prediction accuracy.
+3. Over 80% prediction accuracy.
